@@ -1,4 +1,4 @@
-package com.example.weatherapp.api.models;
+package com.example.weatherapp.api.model;
 
 import lombok.*;
 

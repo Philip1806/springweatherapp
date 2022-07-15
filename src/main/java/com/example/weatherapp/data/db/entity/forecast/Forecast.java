@@ -1,4 +1,4 @@
-package com.example.weatherapp.data.db.entities.forecast;
+package com.example.weatherapp.data.db.entity.forecast;
 
 import lombok.*;
 

@@ -1,4 +1,4 @@
-package com.example.weatherapp.api.controllers;
+package com.example.weatherapp.api.controller;
 
 
 import org.springframework.web.bind.annotation.GetMapping;

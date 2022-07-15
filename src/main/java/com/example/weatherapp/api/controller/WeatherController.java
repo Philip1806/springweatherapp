@@ -1,7 +1,7 @@
-package com.example.weatherapp.api.controllers;
+package com.example.weatherapp.api.controller;
 
-import com.example.weatherapp.api.models.WeatherRequest;
-import com.example.weatherapp.api.models.WeatherResponse;
+import com.example.weatherapp.api.model.WeatherRequest;
+import com.example.weatherapp.api.model.WeatherResponse;
 import com.example.weatherapp.domain.interfaces.WeatherExecutor;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

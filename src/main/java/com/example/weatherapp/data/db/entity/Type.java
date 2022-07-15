@@ -1,10 +1,9 @@
-package com.example.weatherapp.data.db.entities;
+package com.example.weatherapp.data.db.entity;
 
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
-import org.hibernate.annotations.Cascade;
 
 import javax.persistence.*;
 import java.util.HashSet;

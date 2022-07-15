@@ -1,6 +1,6 @@
 package com.example.weatherapp.data.ext.services;
 
-import com.example.weatherapp.data.db.entities.forecast.Forecast;
+import com.example.weatherapp.data.db.entity.forecast.Forecast;
 import com.example.weatherapp.data.ext.restTemplate.interfaces.RestTemplateProvider;
 import com.example.weatherapp.data.ext.services.interfaces.ForecastService;
 import org.springframework.context.annotation.Primary;

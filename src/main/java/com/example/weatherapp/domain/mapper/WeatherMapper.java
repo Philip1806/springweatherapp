@@ -1,6 +1,6 @@
-package com.example.weatherapp.domain.mappers;
+package com.example.weatherapp.domain.mapper;
 
-import com.example.weatherapp.data.db.entities.forecast.Forecast;
+import com.example.weatherapp.data.db.entity.forecast.Forecast;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import org.springframework.stereotype.Service;

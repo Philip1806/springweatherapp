@@ -1,7 +1,7 @@
 package com.example.weatherapp.domain;
 
-import com.example.weatherapp.api.models.WeatherRequest;
-import com.example.weatherapp.api.models.WeatherResponse;
+import com.example.weatherapp.api.model.WeatherRequest;
+import com.example.weatherapp.api.model.WeatherResponse;
 import com.example.weatherapp.data.ext.services.interfaces.PlaceService;
 import com.example.weatherapp.domain.interfaces.WeatherExecutor;
 import org.springframework.stereotype.Service;

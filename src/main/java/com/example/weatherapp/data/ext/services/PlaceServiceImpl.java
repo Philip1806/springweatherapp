@@ -1,12 +1,12 @@
 package com.example.weatherapp.data.ext.services;
 
-import com.example.weatherapp.api.models.WeatherRequest;
-import com.example.weatherapp.api.models.WeatherResponse;
-import com.example.weatherapp.data.db.entities.Country;
-import com.example.weatherapp.data.db.entities.Place;
-import com.example.weatherapp.data.db.entities.forecast.Forecast;
-import com.example.weatherapp.data.db.repositories.CountryRepository;
-import com.example.weatherapp.data.db.repositories.PlaceRepository;
+import com.example.weatherapp.api.model.WeatherRequest;
+import com.example.weatherapp.api.model.WeatherResponse;
+import com.example.weatherapp.data.db.entity.Country;
+import com.example.weatherapp.data.db.entity.Place;
+import com.example.weatherapp.data.db.entity.forecast.Forecast;
+import com.example.weatherapp.data.db.repository.CountryRepository;
+import com.example.weatherapp.data.db.repository.PlaceRepository;
 import com.example.weatherapp.data.ext.services.interfaces.ForecastService;
 import com.example.weatherapp.data.ext.services.interfaces.PlaceService;
 import org.springframework.context.annotation.Primary;

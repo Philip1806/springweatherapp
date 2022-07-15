@@ -1,7 +1,7 @@
-package com.example.weatherapp.data.db.repositories;
+package com.example.weatherapp.data.db.repository;
 
-import com.example.weatherapp.data.db.entities.Country;
-import com.example.weatherapp.data.db.entities.Place;
+import com.example.weatherapp.data.db.entity.Country;
+import com.example.weatherapp.data.db.entity.Place;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
